@@ -2,11 +2,7 @@
 
 CartoonGen is a fun and interactive web app that transforms real faces into cartoon versions using Generative AI. This project features an intuitive frontend and showcases AI-generated outputs.
 
-## Demo
-
 ![CartoonGen Frontend Demo](assets/GenAI_gif.gif)
-
-## Screenshots
 
 ### Prompt Input
 This shows the prompt provided by the user to generate a cartoon image.
