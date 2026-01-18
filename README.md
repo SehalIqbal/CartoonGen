@@ -4,5 +4,6 @@ CartoonGen is a fun and interactive web app that transforms real faces into cart
 
 ## Demo
 
-![CartoonGen Frontend Demo](assets/GenAI_frontend_video.gif)
+![CartoonGen Frontend Demo](assets/GenAI_gif.gif)
+
 
